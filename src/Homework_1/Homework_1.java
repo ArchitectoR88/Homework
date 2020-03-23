@@ -1,7 +1,5 @@
 package Homework_1;
 
-import java.util.Scanner;
-
 public class Homework_1 {
     // 1. Создать пустой проект в IntelliJ IDEA и прописать метод main();
     public static void main(String[] args) {
